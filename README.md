@@ -8,6 +8,11 @@ Constraint-graph explorations inspired by the University of Colorado seminar:
 This repository explores how integrated optical microcombs transform quantum scaling from a device-count problem into a mode-count problem, and how multipartite quantum resources emerge from frequency-multiplexed architectures.
 
 ---
+<p align="center">
+  <img src="figures/Frequency_Multiplexing.png" width="900">
+</p>
+
+---
 
 ## Core Idea
 
