@@ -1,0 +1,18 @@
+{
+  "notebook": "29_integration_constraints",
+  "version": "29_integration_constraints_v1",
+  "question": "What limits the transition from a multipartite graph to an integrated quantum device?",
+  "claim": "Multiplexing creates abundance; integration creates constraints.",
+  "outputs": [
+    "figures/29_resource_stack.png",
+    "figures/29_constraint_graph.png",
+    "figures/29_detector_scaling.png",
+    "figures/29_routing_burden.png",
+    "figures/29_constraint_cascade.png",
+    "results/csv/29_scaling_bottlenecks.csv",
+    "results/csv/29_detector_scaling.csv",
+    "results/csv/29_routing_burden.csv",
+    "results/json/29_integration_constraints_summary.json",
+    "results/29_integration_constraints_outputs.zip"
+  ]
+}

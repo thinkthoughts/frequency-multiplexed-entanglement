@@ -1,0 +1,23 @@
+{
+  "notebook": "23_multipartite_entanglement_networks",
+  "version": "23_multipartite_entanglement_networks_v1",
+  "question": "When do isolated symmetric pairs become a network?",
+  "n_pairs": 8,
+  "models": [
+    "independent_pairs",
+    "coupled_pair_ladder",
+    "hub_connected_modes",
+    "multipartite_candidate"
+  ],
+  "outputs": [
+    "figures/23_independent_pair_components.png",
+    "figures/23_coupled_pair_ladder.png",
+    "figures/23_connectivity_transition.png",
+    "figures/23_hub_connected_modes.png",
+    "figures/23_multipartite_candidate_graph.png",
+    "results/csv/23_connectivity_transition.csv",
+    "results/csv/23_graph_metrics.csv",
+    "results/json/23_multipartite_entanglement_networks_summary.json",
+    "results/23_multipartite_entanglement_networks_outputs.zip"
+  ]
+}

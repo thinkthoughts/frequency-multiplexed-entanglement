@@ -1,0 +1,5 @@
+graph,nodes,edges,connected_components,largest_component,interpretation
+independent_pairs,16,8,8,2,pairwise only
+coupled_pair_ladder,16,22,1,16,connected ladder network
+hub_connected_modes,17,24,1,17,shared mediator schematic
+multipartite_candidate,16,36,1,16,connected candidate network

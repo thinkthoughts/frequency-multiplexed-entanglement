@@ -1,0 +1,15 @@
+{
+  "nodes": 16,
+  "edges": 8,
+  "connected_components": 8,
+  "component_sizes": [
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2,
+    2
+  ]
+}

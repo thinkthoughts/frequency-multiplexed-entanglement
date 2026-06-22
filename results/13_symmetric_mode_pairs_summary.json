@@ -1,0 +1,18 @@
+{
+  "notebook": "13_symmetric_mode_pairs",
+  "version": "13_symmetric_mode_pairs_v1",
+  "question": "Given many frequency modes, which modes become naturally paired?",
+  "core_relation": "2 omega_0 = omega_{+n} + omega_{-n}",
+  "four_wave_mixing_form": "omega_p + omega_p -> omega_{+n} + omega_{-n}",
+  "n_pairs": 8,
+  "outputs": [
+    "figures/13_symmetric_pair_structure.png",
+    "figures/13_pair_adjacency_matrix.png",
+    "figures/13_pair_graph.png",
+    "results/csv/13_symmetric_pairs.csv",
+    "results/csv/13_pair_adjacency_matrix.csv",
+    "results/json/13_pair_graph_metrics.json",
+    "results/json/13_symmetric_mode_pairs_summary.json",
+    "results/13_symmetric_mode_pairs_outputs.zip"
+  ]
+}

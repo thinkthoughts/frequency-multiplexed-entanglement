@@ -1,0 +1,7 @@
+layer,resource,constraint
+comb generation,Q factor,loss and linewidth set usable comb quality
+multiplexing,mode spacing,spacing controls channel density and addressability
+pair creation,pump power,nonlinear generation depends on drive and resonator properties
+network formation,connectivity,isolated pairs require additional coupling or measurement structure
+chip integration,routing,"frequency modes must be filtered, routed, and manipulated"
+measurement,detectors,large graphs create readout and detector burden

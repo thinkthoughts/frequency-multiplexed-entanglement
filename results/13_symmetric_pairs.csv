@@ -1,0 +1,9 @@
+pair_index,left_mode,right_mode,relative_sum,conservation_check
+1,-1,1,0,symmetric
+2,-2,2,0,symmetric
+3,-3,3,0,symmetric
+4,-4,4,0,symmetric
+5,-5,5,0,symmetric
+6,-6,6,0,symmetric
+7,-7,7,0,symmetric
+8,-8,8,0,symmetric
