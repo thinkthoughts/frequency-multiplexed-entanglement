@@ -63,14 +63,13 @@ src/
 
 | Notebook | Focus                                   | Colab                                                                                                                                                                   |
 | -------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 00       | Context and scaling by modes            | [📓](https://colab.research.google.com/github/thinkthoughts/integrated-microcombs-quantum-applications/blob/main/notebooks/00_context.ipynb)                            |
-| 07       | Frequency-mode density and multiplexing | [📓](https://colab.research.google.com/github/thinkthoughts/integrated-microcombs-quantum-applications/blob/main/notebooks/07_mode_density.ipynb)                       |
-| 13       | Symmetric frequency-mode pairs          | [📓](https://colab.research.google.com/github/thinkthoughts/integrated-microcombs-quantum-applications/blob/main/notebooks/13_symmetric_mode_pairs.ipynb)               |
-| 23       | Multipartite entanglement networks      | [📓](https://colab.research.google.com/github/thinkthoughts/integrated-microcombs-quantum-applications/blob/main/notebooks/23_multipartite_entanglement_networks.ipynb) |
-| 29       | Integration constraints                 | [📓](https://colab.research.google.com/github/thinkthoughts/integrated-microcombs-quantum-applications/blob/main/notebooks/29_integration_constraints.ipynb)            |
+| 00       | Context and scaling by modes            | [📓](https://colab.research.google.com/github/thinkthoughts/frequency-multiplexed-entanglement/blob/main/notebooks/00_context.ipynb)                            |
+| 07       | Frequency-mode density and multiplexing | [📓](https://colab.research.google.com/github/thinkthoughts/frequency-multiplexed-entanglement/blob/main/notebooks/07_frequency_comb.ipynb)                       |
+| 13       | Symmetric frequency-mode pairs          | [📓](https://colab.research.google.com/github/thinkthoughts/frequency-multiplexed-entanglement/blob/main/notebooks/13_symmetric_mode_pairs.ipynb)               |
+| 23       | Multipartite entanglement networks      | [📓](https://colab.research.google.com/github/thinkthoughts/frequency-multiplexed-entanglement/blob/main/notebooks/23_multipartite_entanglement_networks.ipynb) |
+| 29       | Integration constraints                 | [📓](https://colab.research.google.com/github/thinkthoughts/frequency-multiplexed-entanglement/blob/main/notebooks/29_integration_constraints.ipynb)            |
 | 31       | Measurement constraints *(planned)*     | 🚧                                                                                                                                                                      |
-| }        |                                         |                                                                                                                                                                         |
-
+| }        |                                         |                                                               
 ---
 
 ## Notebook 00 — Context
